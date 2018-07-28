@@ -1,3 +1,6 @@
+> Hey! Did you noticed that Ionicons ship now with designer content shipping all svgs in single .zip file?
+https://ionicons.com/ionicons.designerpack.zip
+
 # Ionic v4 for Adobe XD
 
 Icons from Ionic v4 as Adobe XD kit.
